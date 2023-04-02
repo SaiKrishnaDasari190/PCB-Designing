@@ -11,4 +11,4 @@ This repository contains the following:
 
 This project is made using the tool : __Autodesk Eagle__
 
-Tool I have used to open the GERBERS :__Gerbv__
+Tool I have used to open the GERBERS : __Gerbv__
