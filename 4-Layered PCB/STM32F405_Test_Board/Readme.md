@@ -8,7 +8,7 @@ I have designed a 4 layered STM32F4-based PCB, which is completely with SMD (Sur
 
 __1. STM32F405 MCU Circuit__
 
-    🔸**Decoupling Capacitors :** These capacitors help stabilize the power supply for the MCU, reducing noise and voltage fluctuations.
+    🔸 **Decoupling Capacitors :** These capacitors help stabilize the power supply for the MCU, reducing noise and voltage fluctuations.
     
     🔸**VDDA Filtering :** This filtering helps provide a clean and stable analog power supply for the MCU's analog components.
     
